@@ -4,4 +4,4 @@ spring:
   application:
     name: config-dev
 config:
-  info: devVVVVV2
+  info: dev3
