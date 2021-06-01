@@ -1,7 +1,4 @@
 server:
   port: 3355
-spring:
-  application:
-    name: config-dev
 config:
   info: dev3

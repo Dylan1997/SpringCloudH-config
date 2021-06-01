@@ -1,5 +1,4 @@
 server:
-  port: 3355
-spring:
-  application:
-    name: config-prod
+  port: 3377
+config:
+  info: prod3

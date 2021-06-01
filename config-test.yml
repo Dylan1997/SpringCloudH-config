@@ -1,5 +1,4 @@
 server:
-  port: 3355
-spring:
-  application:
-    name: config-test
+  port: 3366
+config:
+  info: test3
